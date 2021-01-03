@@ -1,2 +1,2 @@
 # LexerForC
-ُSimple lexical analyst
+Simple lexical analyst
